@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="styles/site.css">
+
+    <title> General Requirements | ISST at Cornell Bowers CIS </title>
+    <meta name="description" content="Fireflies Group's Cornell Bowers CIS website - general requirements">
+</head>
+
+<body>
+    <header>
+        <a href="index.html" title="Home">
+            <!-- Source: client provided -->
+            <img class="header-logo" src="images/bowers-logo.svg" alt="">
+        </a>
+
+        <button class="accessible-hidden hamburger-button" id="hamburger" aria-label="Open the navigation menu">
+            <picture>
+                <!-- Source: (original work) Tran Le -->
+                <img src="images/hamburger-icon.png" alt="navigation hamburger icon">
+            </picture>
+        </button>
+
+        <button class="accessible-hidden x-icon" id="x-button" aria-label="Close the navigation menu">
+            <picture>
+                <!-- Source: (original work) Tran Le -->
+                <img src="images/x-icon.png" alt="navigation x icon">
+            </picture>
+        </button>
+
+        <!-- Source: (original work) Group Work -->
+        <nav id="navigation">
+            <menu>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="general-requirements.html">General Requirements</a></li>
+                <li><a href="concentrations.html">Concentrations</a></li>
+                <li><a href="course-catalog.html">Course Catalog</a></li>
+                <li><a href="advising-support.html">Advising & Support</a></li>
+            </menu>
+        </nav>
+    </header>
+
+
+    <h1> General Requirements </h1>
+
+    <div class="container">
+        <aside>
+            <div class="sticky-content">
+                <h2> On this page </h2>
+
+                <!-- Source: client provided -->
+                <ul>
+                    <li> <a href="#overview"> Overview </a> </li>
+                    <li> <a href="#core"> Core Requirements </a> </li>
+                    <li> <a href="#math"> Math Requirements </a> </li>
+                    <li> <a href="#electives"> Major Approved Electives </a> </li>
+                    <li> <a href="#checklist"> ISST Checklist </a> </li>
+                    <li> <a href="#good-standing"> Criteria for Good Standing </a> </li>
+                </ul>
+            </div>
+        </aside>
+
+        <main>
+            <section id="overview">
+                <h2> Overview </h2>
+
+                <!-- Source: client provided -->
+                <ul>
+                    <li> Students are required to complete <strong> seven </strong> core courses. </li>
+                    <li> As majors in ISST, students will have to satisfy a <strong> sequence </strong> of required mathematics courses. </li>
+                    <li> All classes toward the completion of major requirements must be taken for a <strong>letter grade</strong>. No grades below a C- may be counted toward the major. </li>
+                </ul>
+            </section>
+
+            <section id="core">
+                <h2> Core Requirements </h2>
+
+                <div class="courses-figure">
+                    <!-- Source: client provided -->
+                    <ul>
+                        <li>
+                            <div class="course-code">INFO 1200</div>: Information Ethics, Law, and Policy <em class="or">or</em>
+                            <div class="course-code">INFO 1260</div>: Choices and Consequences in Computing*
+                        </li>
+                        <li>
+                            <div class="course-code">INFO 1300</div>: Introductory Design and Programming for the Web
+                        </li>
+                        <li>
+                            <div class="course-code">INFO 2040</div>: Networks
+                        </li>
+                        <li>
+                            <div class="course-code">INFO 2450</div>: Communication and Technology <em class="or"> or </em>
+                            <div class="course-code">ENGRC 3350</div>: Communications for Engineering Managers**
+                        </li>
+                        <li>
+                            <div class="course-code">ORIE 3120</div>: Practical Tools for Operations Research, Machine Learning and Data Science
+                        </li>
+                        <li>
+                            <div class="course-code">ORIE 3500</div>: Engineering Probability and Statistics II
+                        </li>
+                        <li> One course in Data Science and Machine Learning***:
+                            <ul>
+                                <li>
+                                    <div class="course-code">STSCI 3740</div>: Data Mining and Machine Learning
+                                </li>
+                                <li>
+                                    <div class="course-code">ORIE 3741</div>: Learning with Big Messy Data
+                                </li>
+                                <li>
+                                    <div class="course-code">CS 3780</div>: Introduction to Machine Learning
+                                </li>
+                                <li>
+                                    <div class="course-code">ORIE 4740</div>: Statistical Data Mining I
+                                </li>
+                                <li>
+                                    <div class="course-code">CS 4786</div>: Machine Learning for Data Science
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                    <figure>
+                        <button id="core-button" class="figure-button disabled" aria-label="Show a larger version of the image">
+                            <!-- Source: original work by Tran-->
+                            <img class="modal-requirements" src="images/core-requirements.png" alt="Figure of 7 core requirements">
+                        </button>
+                    </figure>
+                </div>
+
+                <div id="modal-core" class="modal hidden">
+                    <div class="modal-content">
+                        <button id="core-x" class="x-icon-modal" aria-label="Close the larger version of the image">
+                            <picture>
+                                <!-- Source: original work by Tran -->
+                                <img class="x-icon-image" src="images/x-icon.png" alt="Close">
+                            </picture>
+                        </button>
+
+                        <figure>
+                            <!-- Source: original work by Tran -->
+                            <img class="modal-image" src="images/core-requirements.png" alt="Figure of 7 core requirements">
+                        </figure>
+                    </div>
+                </div>
+
+                <strong class="notes"> Notes: </strong>
+
+                <p> <strong> Students are required to complete seven core courses. </strong> </p>
+
+                <p> *Students can take INFO 1200 or INFO 1260 to meet the core requirement. Both courses count for credit but only one is needed to meet the core requirement. Neither INFO 1200 (if taken after Fall 2023) nor INFO 1260 will fulfill the engineering communication requirement. </p>
+
+                <p> **Beginning the 2025-2026 academic year, ENGRC 3350 will not count towards the ISST core. Students must take INFO 2450. </p>
+
+                <p> ***Beginning Fall 2024, students will not receive credit for both STSCI 3740 (and the former STSCI 4740/5740), ORIE 3741 (and the former ORIE 4741/5741), and CS 3780 (and the former CS 4780/5780). For example, students will not be permitted to take CS 3780 for the core Data Science and Machine Learning requirement and also STSCI 3740 for the Data Science category A requirement due to an overlap in content. </p>
+            </section>
+
+            <section id="math">
+                <h2> Math Requirements </h2>
+
+                <!-- Source: client provided -->
+                <div class="courses-figure">
+                    <ol>
+                        <li>
+                            <div class="course-code">MATH 1910</div>: Calculus for Engineers
+                        </li>
+                        <li>
+                            <div class="course-code">MATH 1920</div>: Multivariable Calculus for Engineers
+                        </li>
+                        <li>
+                            <div class="course-code">MATH 2940</div>: Linear Algebra for Engineers
+                        </li>
+                        <li> One of the following:
+                            <ul>
+                                <li>
+                                    <div class="course-code">MATH 2930</div>: Differential Equations for Engineers
+                                </li>
+                                <li>
+                                    <div class="course-code">MATH 3040</div>: Prove It!
+                                </li>
+                                <li>
+                                    <div class="course-code">CS 2800</div>: Mathematical Foundations of Computing*
+                                </li>
+                            </ul>
+                        </li>
+                    </ol>
+
+                    <figure>
+                        <button id="math-button" class="figure-button disabled" aria-label="Show a larger version of the image">
+                            <!-- Source: original work by Tran-->
+                            <img class="modal-requirements" src="images/math-requirements.png" alt="Flowchart of math requirements">
+                        </button>
+                    </figure>
+                </div>
+
+                <div id="modal-math" class="modal hidden">
+                    <div class="modal-content">
+                        <button id="math-x" class="x-icon-modal" aria-label="Close the larger version of the image">
+                            <picture>
+                                <!-- Source: original work by Tran -->
+                                <img class="x-icon-image" src="images/x-icon.png" alt="Close">
+                            </picture>
+                        </button>
+
+                        <figure>
+                            <!-- Source: original work by Tran -->
+                            <img class="modal-image" src="images/math-requirements.png" alt="Flowchart of math requirements">
+                        </figure>
+                    </div>
+                </div>
+
+                <strong class="notes"> Notes: </strong>
+
+                <p> <strong> Students should take the above courses in sequence. </strong> </p>
+
+                <p> *CS 2800 must be taken either as part of the Mathematics course, or the Physics course required by the major. </p>
+
+                <p class="engineering-distributions"> Engineering Distributions </p>
+                <ul>
+                    <li>
+                        <div class="course-code">ENGRD 2110</div>: Object-Oriented Programming and Data Structures
+                    </li>
+                    <li>
+                        <div class="course-code">ENGRD 2700</div>: Basic Engineering Probability and Statistics
+                    </li>
+                </ul>
+
+                <p> The major requires ENGRD 2700 as an Engineering Distribution course. ENGRD 2110 is also required by the major and it is recommended that this course be taken as an Engineering Distribution course. </p>
+            </section>
+
+            <section id="electives">
+                <h2> Major Approved Electives </h2>
+
+                <!-- Source: client provided -->
+                <ul>
+                    <li> Select two major-approved elective courses from any <a href="concentrations.html">concentration</a>. </li>
+                    <li>
+                        <div class="course-code">INFO 4900</div>: Independent Reading and Research (may be used to fulfill <strong> one </strong> major-approved elective)
+                    <li>
+                        <div class="course-code">INFO 2300</div>: Intermediate Design and Programming for the Web <em class="or"> or </em>
+                        <div class="course-code">INFO 2310</div>: Interactive Web Application Design and Development*
+                    </li>
+                </ul>
+
+                <strong class="notes"> Notes: </strong>
+
+                <p> *INFO 2300 and INFO 2310 overlap in content so both courses cannot count for major approved electives. However, one could count as a major approved elective and the other could count as an advisor approved elective. </p>
+
+                <p> Additionally, up to two courses from qualifying study abroad programs may be transfered to Cornell and applied as major approved elective credit. Courses must be approved before studying abroad. Please email the following information to <a href="mailto:isadvising@cornell.edu">isadvising@cornell.edu</a> for each course to be reviewed: institution and program name, course title, course link, and syllabus. Qualifying courses must be related to Information Science. Electives taken abroad must be at least 3.0 credits and completed with a grade of C or higher. </p>
+
+                <p> INFO 4910 and INFO 4998 do not count as major approved electives. </p>
+            </section>
+
+            <section id="checklist">
+                <h2> ISST Checklist </h2>
+
+                <figure class="checklist-image">
+                    <!-- Source: client provided -->
+                    <img src="images/isst-checklist.png" alt="ISST Checklist">
+                </figure>
+
+                <div class="center-button">
+                    <a class="pdf" href="isst-checklist.pdf">View PDF</a>
+                </div>
+            </section>
+
+            <section id="good-standing">
+                <h2> Criteria for Good Standing </h2>
+
+                <!-- Source: client provided -->
+                <ul>
+                    <li> Semester GPA of greater than or equal to 2.3 </li>
+                    <li> A semester GPA of greater than or equal to 2.5 in all courses used towards the ISST major and all math courses required by the Engineering college </li>
+                    <li> A grade of C- or above in ENGRD 2110, ENGRD 2700, and all courses used towards the ISST major.</li>
+                    <li> Satisfactory progress (a minimum of 14 credits per semester) </li>
+                    <li> No failing grades </li>
+                    <li> Take at least two core major classes the first semester after a student affiliates. </li>
+                </ul>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-left">
+            <!-- Source: client provided -->
+            <p> © 2024 Cornell University Department of Information Science </p>
+            <p> 236 Gates Hall, Ithaca NY 14853 </p>
+            <p> If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact <a href="mailto:web-accessibility@cornell.edu">web-accessibility@cornell.edu</a> for assistance.
+            </p>
+        </div>
+
+        <div class="footer-right">
+            <a href="https://www.instagram.com/cornellbowerscis/">
+                <picture>
+                    <!-- Source: original work by Tran -->
+                    <img class="footer-media-icons" src="images/instagram.png" alt="instagram icon">
+                </picture>
+            </a>
+
+            <a href="https://www.facebook.com/CornellCIS/">
+                <picture>
+                    <!-- Source: original work by Tran -->
+                    <img class="footer-media-icons" src="images/facebook.png" alt="facebook icon">
+                </picture>
+            </a>
+
+            <a href="https://www.linkedin.com/company/cornell-university-college-of-computing-and-information-science/">
+                <picture>
+                    <!-- Source: original work by Tran -->
+                    <img class="footer-media-icons" src="images/linkedin.png" alt="linkedin icon">
+                </picture>
+            </a>
+
+            <a href="https://x.com/CornellCIS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&prefetchTimestamp=1732035796371">
+                <picture>
+                    <!-- Source: original work by Tran -->
+                    <img class="footer-media-icons" src="images/x-media.png" alt="X icon">
+                </picture>
+            </a>
+
+            <a href="https://www.youtube.com/channel/UC30gHDEkx8V-9aIoDHzz-zA">
+                <picture>
+                    <!-- Source: original work by Tran -->
+                    <img class="footer-media-icons" src="images/youtube.png" alt="YouTube icon">
+                </picture>
+            </a>
+        </div>
+    </footer>
+
+    <script src="scripts/jquery-3.7.1.js"></script>
+    <script src="scripts/general-modals.js"></script>
+    <script src="scripts/hamburger.js"></script>
+
+</body>
+
+</html>
