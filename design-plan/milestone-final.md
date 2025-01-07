@@ -1,18 +1,11 @@
 # Group Project, Final Milestone: Design Journey
 
-[← Table of Contents](design-journey.md)
-
-
-## Milestone 2 Feedback Revisions
-> Explain what you revised in response to the Milestone 2 feedback (1-2 sentences)
-> If you didn't make any revisions, explain why.
+## Milestone 2 Revisions
 
 We deleted the interactivity for the gallery on the homepage because it didn't seem like it was helping with the audience goals, and also added 2 modals for the figure/flowchart of the core/math requirements on the "General Requirements" page so that students can better visualize how the requirements look like. We also changed the layout of the Concentrations page slightly, moving the descriptions for each concentration outside of the interactive button and changing the styling of the button so that it better indicates where the hidden content will appear (below the button).
 
 
 ## Interactivity Plan
-> List the types of interactivity you plan to include in your project.
-> Provide a brief summary (a few words) for each type of interactivity you plan to implement.
 
 - Hamburger menu: the hamburger menu for the narrow screen will allow the auidence to open and close the navigation to allow them to access the content of each page faster without having to scroll past a navigation menu every time.
 - 2 modals for the figure/flowchart of the core/math requirements on the "General Requirements" page: The fonts, shapes, and arrows in the figure/flowchart are small and the image for it is just currently a thumbnail next to the list of courses. Therefore, offering a larger version of the figure/flowchart would help users view the details more clearly and better understand the structure of the requirements. We only implement these modals for wide screens but not narrow screens because screen space is limited on narrow screens so modals would be impractical and disruptive. The figures for the modals are already big on narrow screens so modals are unnecessary on narrow screens.
@@ -21,11 +14,6 @@ We deleted the interactivity for the gallery on the homepage because it didn't s
 
 
 ## Interactivity Design Sketches
-> Create design sketch(es) to plan your interactivity's design.
-> **Sketch out where your interactivity will go on the page itself.**
-> For example, do not just sketch a carousel; instead, sketch the carousel on the page where it will appear.
-> Add annotations to explain what happens when the user takes an action. (This is not pseudocode.)
-> Include as many sketches as necessary to communicate your design (ask yourself, could another 1300 take these sketches an implement my design?)
 
 **Modal design sketches**
 ![modal-design-general-wide](modal-general-sketches_1.jpg)
@@ -42,8 +30,6 @@ We deleted the interactivity for the gallery on the homepage because it didn't s
 
 
 ## Interactivity Planning Sketches
-> Produce planning sketches that include all the details another 1300 student would need to implement your design.
-> Your planning sketches should include _all_ HTML elements needed for the interactivity; _annotations_ for the element types, their unique IDs, and CSS classes; and lastly the initial CSS classes.
 
 **Modal planning sketches:**
 ![Modal planning](modal-general-planning.jpg)
@@ -59,8 +45,6 @@ We deleted the interactivity for the gallery on the homepage because it didn't s
 
 
 ## Interactivity Pseudocode Plan
-> Write your interactivity pseudocode plan here.
-> Pseudocode is not JavaScript. Do not put JavaScript nor snippets code here.
 
 **Modal pseudocode**:
 
@@ -242,9 +226,6 @@ on page load (ready):
 ```
 
 ## Interactivity Usability Justification
-> Explain how the interactivity _functionally_ improves the user's experience and helps them accomplish their goals. (i.e. Your interactivity does _more_ than add additional clicks; the interactivity doesn't insert additional barriers for the user when working towards their goals.)
-> Explain how your interactivity's design effectively uses affordances, visibility, feedback, and familiarity.
-> Write a paragraph (3-4 sentences)
 
 **Hamburger Menu**
 The hamburger menu helps meet the users goals by helping them access the content of the website faster without having to scroll past a navigation menu. The outline around the button shows affordances because they give users a clue about where the interactivity is. It uses visibility because all the elements of the hamburger menu like the hamburger button and x button are visible. When the user performs an action such as clicking a button, there is immediate feedback because the menu expands and closes. The hamburger menu also follows common design patterns because the hamburger button opens the menu, and the x button closes it, which is a pattern seen across many websites.
@@ -257,18 +238,6 @@ The hamburger menu helps meet the users goals by helping them access the content
 The accordion design prioritizes user efficiency by transforming an overwhelming course catalog into a clean, modular interface where students can selectively expand information relevant to their interests. By allowing users to click the entire course level area—not just a small arrow—the interface maximizes interaction space and reduces precision requirements, making course exploration more accessible and intuitive. This approach strategically uses progressive disclosure, enabling students to navigate course offerings without visual fatigue and focus their attention on specific course levels or semesters they're currently investigating. The full-width clickable area provides clear affordances, immediate visual feedback, and leverages familiar web interface conventions, ultimately empowering users to explore academic offerings efficiently and with minimal cognitive load.
 
 ## References
-
-### Collaborators
-> List any persons you collaborated with on this project.
-N/A
-
-
-### Reference Resources
-> Did you use any resources not provided by this class to help you complete this assignment?
-> List any external resources you referenced in the creation of your project. (i.e. W3Schools, StackOverflow, Mozilla, etc.)
->
-> List **all** resources you used (websites, articles, books, etc.), including generative AI.
-> Provide the URL to the resources you used and include a short description of how you used each resource.
 
 The class slides, the accessibility checklist, the provided JavaScript snippets, MDN reference docs, W3Schools validation tool.
 

@@ -1,17 +1,10 @@
 # Group Project, Milestone 2: Design Journey
 
-[← Table of Contents](design-journey.md)
-
-## Milestone 1 Feedback Revisions
-> Explain what you revised in response to the Milestone 1 feedback (1-2 sentences)
-> If you didn't make any revisions, explain why.
+## Milestone 1 Revisions
 
 We added the list of courses per concentration to better meet our client's goals of learning about the different concentrations offered. However, we deleted the headshots of advisors because they weren't provided by the client and we didn't get permission from the advisors for their headshots.
 
 ## Content Organization
-> Document your card sorting here.
-> Include photographic evidence of card sorting **and** description of your thought process. (1-2 sentences)
-> Please physically sort cards; please don't do this digitally.
 
 **Iteration 1**:
 ![Degree requirements iteration 1](iteration1-degree-requirements.jpg)
@@ -27,25 +20,19 @@ In this iteration, we structure the content to guide users from a general introd
 In this iteration, we structure content in five pages including Home, General Requirements, Concentrations, Course Catalog, and Advising & Support. The Home page gives a short introduction to the department and the ISST major with images of the CIS and ISST students. The General Requirements is an overview of ISST major requirements with core courses, math and electives (these requirements apply to everyone in the major) with an image & a PDF file of the checklist. The Concentration page introduces each concentration and goes into detail the lists of courses that fall under each concentration (students choose different concentrations so we make it a separate page). The Course Catalog page gives our audience a space to navigate themselves with lists of courses for requirements with avilability, professor and descriptions so that they won't have to go to a different website. Finally, the Advising & Support Page is about advisors' contact information.
 
 ## Final Content Organization
-> Which iteration of card sorting will you use for your website? (1 sentence)
 
 We are using the second iteration of card sorting for our website.
-
-> Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
 In our first iteration, detailed information on the courses was on the same page as the breakdown of general degree requirements and concentrations, which was a lot to throw at the user all at once, while in our second iteration, we moved this content to a new page, the course catalog, so that we could provide a simplified version of the general degree requirement and concentration pages – this will allow our user to find information more quickly and without feeling quite so overwhelmed. Consistent in both iterations are our Home page and our Advising & Support page, which provide information about the major (in a general sense) and about a crucial resource available to students (meetings with advisors) – this fulfills our audience goals by giving them streamlined access to tools that they might need as they navigate their major and ultimately if they decide to affiliate.
 
 
 ## Navigation
-> Please list the pages you will include in your website's navigation.
 
 - Home
 - General Requirements
 - Concentrations
 - Course Catalog
 - Advising & Support
-
-> Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
 
 These names make sense because they sum up the content that will be offered by each of these pages – the Home page will be sort of the base of operations, with general information about the department, the major and potential careers that majors can look at; the General Requirements page will contain information about core, math, and elective requirements, along with a list of the courses that can be used to satisfy each of them; the Concentrations page will contain information about each of the concentrations and a list of the courses that can be used to satisfy each of them; the Course Catalog page will contain a list of all the courses mentioned on the previous pages, along with more detailed information about them (such as descriptions of what is covered in the course, semester, instructor, number of credits); and the Advising & Support page contains contact information of the advisors and information as to how to set up meetings with them. Therefore, the names of these pages address the goals of our site's audience while making it clear what content can be found on what page.
 
@@ -60,13 +47,9 @@ Narrow Screenshot
 ![Wide example website](website1-wide.jpg)
 Wide Screenshot
 
-- What **goals** do you think the audience likely has when visiting this site.
+**Goals of the audience**: The audience has the goals of learning about the academic programs offered by the Information School, and the different opportunies such as events, news, and research.
 
-    The audience has the goals of learning about the academic programs offered by the Information School, and the different opportunies such as events, news, and research.
-
-- What do you like about the design?
-
-    We like the colors they chose because it's distinct to the schools reputation, we like the use of decorative imagery, we like their use of gallery interactivity, and we like that the logo goes to the university home page. We also like that the navigation bar turns into a hamburger menu when the screen gets narrow because it follows common design patterns.
+**What we like**: We like the colors they chose because it's distinct to the schools reputation, we like the use of decorative imagery, we like their use of gallery interactivity, and we like that the logo goes to the university home page. We also like that the navigation bar turns into a hamburger menu when the screen gets narrow because it follows common design patterns.
 
 
 ## Example Website 2
@@ -79,20 +62,11 @@ Wide screenshot
 ![Website 2 narrow](website2-narrow.png)
 Narrow screenshot
 
-- What **goals** do you think the audience likely has when visiting this site.
+**Goals of the audience**: One important goal that audiences likely have when visiting this site is to see what bachelor programs are offered by Carnegie Mellon's School of Computer Science and to access specific information regarding the curriculum, what courses are offered to satisfy the components of the curriculum, and any other information pertinent to the program that they are interested in or already part of.
 
-    One important goal that audiences likely have when visiting this site is to see what bachelor programs are offered by Carnegie Mellon's School of Computer Science and to access specific information regarding the curriculum, what courses are offered to satisfy the components of the curriculum, and any other information pertinent to the program that they are interested in or already part of.
-
-- What do you like about the design?
-
-    The font size used in this website allows the audience to easily see what the page is about. The type of colours used is also  the best because they are not too sharp or piercing. This page also has anchors in the sidebar that lead to other pages on the website.
+**What we like**: The font size used in this website allows the audience to easily see what the page is about. The type of colours used is also  the best because they are not too sharp or piercing. This page also has anchors in the sidebar that lead to other pages on the website.
 
 ## Interactivity Brainstorm
-> Using the audience goals you identified, brainstorm possible options for interactivity to enhance the functionality
-> of the site while also assisting the audience with their goals.
-> Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's
-> functionality for the audience.
-> Note: You may find it easier to sketch for brainstorming. That's fine too.
 
 - Hamburger menu for narrow screens of each webpage: make it easier to access the content faster without having to scroll past a long vertical menu, saving more space for audience.
 - Modal for PDF checklist: audience can better utilize the checklist by accessing the enlarged version of the checklist to check for details.
@@ -101,11 +75,6 @@ Narrow screenshot
 - Image gallery for decorative images in Home page: there will be small thumbnails and when users click on the thumbnail, a corresponding larger image will show up. It helps users view images more in detail if they want.
 
 ## Design Exploration
-> Iterate on your site's design through sketching.
-> Sketch both the narrow and wide versions of the site.
-> Here you are just exploring your layout ideas. You don't need to sketch every page.
-> Include some of your interactivity ideas in your sketches.
-> Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 ![General requirements hamburger menu](explore-general-hamburger.jpg)
 The hamburger menu is a design that many websites employ – the symbol should be reasonably familiar to users of the web, which makes it a good design choice because it employs pre-existing familiar web design. It allows us to collapse the navigation menu in the narrow view, with the user having the choice to open it up at any time when they want to. This is important because it minimizes the vertical space taken up by the navigation bar in the narrow view, which reduces the amount that the user needs to scroll in the narrow view to actually get down to the content, thereby minimizing their frustration and the time it takes for them to find the information that they need.
@@ -123,10 +92,6 @@ I included a carousel for this iteration because it will allow us to include mor
 I include an accordion header and a gallery modal as the interactivity on Course Catalog Page. By grouping all courses into four blocks/boxes indicating four different levels, it saves space for audience since it only includes four blocks under each heading of certain semester. And you can expand or access the more course info by clicking on the box which then gives you a bigger image with the accorion header and the course info underneath.
 
 ## Final Entire Website's Narrow Design
-> Plan the design of the website for narrow devices.
-> Include a sketch for each page of your website.
-> Include the design of the _entire_ page, not just the top portion.
-> Label each sketch, so that we understand what page we are reviewing. (1 short phrase per sketch)
 
 ![Final home narrow](final-home-narrow.jpg)
 ![Final general requirements narrow](final-general-narrow.jpg)
@@ -136,10 +101,6 @@ I include an accordion header and a gallery modal as the interactivity on Course
 
 
 ## Final Entire Website's Wide Design
-> Plan the design of the website for wide devices.
-> Include a sketch for each page of your website.
-> Include the design of the _entire_ page, not just the top portion.
-> Label each sketch, so that we understand what page we are reviewing. (1 short phrase per sketch)
 
 ![Final home wide](final-home-wide.jpg)
 ![Final general requirements wide](final-general-wide.jpg)
@@ -152,9 +113,6 @@ I include an accordion header and a gallery modal as the interactivity on Course
 
 
 ## Design Rationale
-> Explain why your design is appropriate for your audience.
-> Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
-> How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
 Our design is appropriate for our audience because it addresses their goals by splitting up the pages according to the sections that were emphasized during the interviews, and each section is titled according to its category and displayed on the navigation menu. This makes the website easy to navigate and for users to find the information they are looking for quickly. Each web page also has a side bar with anchors, which makes it easy for users to navigate the content within each web page as well. The site design also follows familiar web design patterns to make the website more predictable and useable for users. Each page has a side bar with anchors, navigation bar, title, logo that links to the home page, and footer. All of these design choices make our website appropriate and familiar for our audience.
 
@@ -162,8 +120,6 @@ Our design is appropriate for our audience because it addresses their goals by s
 - The course codes in the General Requirements page are bold to emphasize the courses everyone in the major has to take.
 
 ## Interactivity Rationale
-> Describe the purpose of your proposed interactivity.
-> Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
 The **home page** has an image gallery that enlarges the image (thumbnail) that the users select, which addresses the audience's goals of learning more about the ISST major by seeing what life as an ISST major looks like through images. It enhances their experience because they don't have to scroll past all the images, and instead, they can just look at the ones they are interested in.
 
@@ -174,19 +130,6 @@ The **Course Catalog page** uses accordions that allow users to click and expand
 All of the pages in the narrow view have hamburger menu that can be used to expand and minimize the navigation menu. This allows users to control when it is visible and when it is not, which is important because it saves space and allows users to find the information that they're looking for on any given page more easily in the narrow view. This is not necessary in the wide-screen view because the navigation menu expands into something that takes up relatively less vertical space. Therefore, this interactivity furthers the user goals by making the webpage shorter and therefore more readable in the narrow-screen view, while giving the user control over whether or not the navigation menu is displayed at any given moment.
 
 ## References
-
-### Collaborators
-> List any persons you collaborated with on this project.
-
-n/a
-
-
-### Reference Resources
-> Did you use any resources not provided by this class to help you complete this assignment?
-> List any external resources you referenced in the creation of your project. (i.e. W3Schools, StackOverflow, Mozilla, etc.)
->
-> List **all** resources you used (websites, articles, books, etc.), including generative AI.
-> Provide the URL to the resources you used and include a short description of how you used each resource.
 
 We used this site as a reference for HTML and CSS:
 <https://developer.mozilla.org/en-US/docs/Web/HTML>

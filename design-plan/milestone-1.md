@@ -1,83 +1,29 @@
 # Group Project, Milestone 1: Design Journey
 
-[← Table of Contents](design-journey.md)
-
-
 ## Team Contract
 
-Working together as a team is critical for your success on this project. Conflicts are normal and to be expected. It's best to develop a plan for handling conflicts before they arise.
+1. We commit to communicating internal deadlines for the project milestones, deciding which times and dates we should meet on a weekly basis, completing our assigned tasks, and timely communication.
 
-**This contract is a _living_ document.** If it's not working, your team should revise it as often as necessary.
+2. Our ground rules are to meet the deadlines, notify if we can’t meet the deadlines, and be generally respectful of each other’s opinions. We will also give everyone space to talk and contribute their opinions. We will also commit each of our work on GitHub.
 
-Your team contract should probably include these elements. Feel free to remove or add other terms, too.
+3. We will communicate daily through text messages and weekly on Zoom to assign tasks. We will meet once a week for assigning tasks and meet again to check our submission together. We will also meet again if additional issues arise.
 
-1. To what goals do we all commit?
+4. We will communicate with our client through the GitHub client communication discussion forum. We will meet as a team before letting one person reach out to the client.
 
+5. We will create 3 submission roles for three different people (one for each milestone), and 2 communication roles for communicating with our client for the last 2 milestones. We will also create a role for internal deadlines reminders.
 
-    We commit to communicating internal deadlines for the project milestones, deciding which times and dates we should meet on a weekly basis, completing our assigned tasks, and timely communication.
+6. We’ll hold ourselves accountable through team meetings, internal deadlines, and text message reminders of internal deadlines. We will ask the person who isn’t contributing equally if there are other thighs in their life that are impacting their group work. We will find accommodations to account for personal life events and adjust accordingly. If we are not able to find a solution after trying hard, we will go to the TAs or professor Harms for help with the situation.
 
+7. We will give each other the opportunity to state our opinions and perspectives and then take a vote. We will use the majority opinion to approach the conflict.
 
-2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
+8. We will re-visit this contract before we start working on each milestone, and make sure every group member can access it and contribute. We will also re-visit it if there is conflict that arises.
 
-    **Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
-
-    Our ground rules are to meet the deadlines, notify if we can’t meet the deadlines, and be generally respectful of each other’s opinions. We will also give everyone space to talk and contribute their opinions. We will also commit each of our work on GitHub.
-
-3. By what means and how frequently will we meet or communicate?
-
-    We will communicate daily through text messages and weekly on Zoom to assign tasks. We will meet once a week for assigning tasks and meet again to check our submission together. We will also meet again if additional issues arise.
-
-4. How will we communicate and work with our client?
-
-    We will communicate with our client through the GitHub client communication discussion forum. We will meet as a team before letting one person reach out to the client.
-
-5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
-
-    **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
-
-    We will create 3 submission roles for three different people (one for each milestone), and 2 communication roles for communicating with our client for the last 2 milestones. We will also create a role for internal deadlines reminders.
-
-6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
-
-    We’ll hold ourselves accountable through team meetings, internal deadlines, and text message reminders of internal deadlines. We will ask the person who isn’t contributing equally if there are other thighs in their life that are impacting their group work. We will find accommodations to account for personal life events and adjust accordingly. If we are not able to find a solution after trying hard, we will go to the TAs or professor Harms for help with the situation.
-
-
-7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
-
-    We will give each other the opportunity to state our opinions and perspectives and then take a vote. We will use the majority opinion to approach the conflict.
-
-8. What are our procedures for re-visiting this contract?
-
-    We will re-visit this contract before we start working on each milestone, and make sure every group member can access it and contribute. We will also re-visit it if there is conflict that arises.
-
-9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
-
-    **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
-
-    We will get to know each other better by meeting in person during lab and outside of class. We could grab a snack together to celebrate the submission of each milestone.
-
-
-## Using your Contract
-
-You are expected to follow your team contract. **If you are having issues (e.g. conflicts) in your team, the first thing you should do is follow the contract.** If the contract isn't working, then your team should revise it.
-
-If you cannot resolve your conflict using the contract, please email the instructors at <info1300@cornell.edu>. Please be advised, that the first thing the instructor will ask you is, "did you try to resolve your issue with the contract?" The next question the instructor will ask you is, "what change did you make to your contract to resolve the issue?" You must attempt to resolve your conflicts on your own first before an instructor will intervene.
-
+9. We will get to know each other better by meeting in person during lab and outside of class. We could grab a snack together to celebrate the submission of each milestone.
 
 ## Audience
-> Briefly explain your site's audience.
-
 Our site’s audience is College of Engineering students that are working towards a B.S. in Information Science Systems and Technology.
 
-> Explain how this audience is the least represented in your group. (1-2 sentences)
-
-The least represented in our group would be Engineering IS majors. This is because our group has 3 people from A&S, 1 person from CALS, and 1 person from CHE. Therefore, Engineering IS majors are the least represented in our group.
-
-
 ## User Interview Planning
-> Plan the user interview which you'll use to identify the goals of your site's audience.
-
-**User Interview Briefing and discuss and document here& Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am re-designing the website for Information Science majors. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time.
 
 1. Think about a time you tried to find your major requirements. How did you go about doing so?
 2. Recall if you have ever visited the Bowers CIS page for the Information Science, Systems, and Technology major offered to students in the College of Engineering (linked [here](https://cis.cornell.edu/undergraduate-opportunities/ISST))? Describe this experience: For what purpose did you visit the page? How did you find this page, and was it easy or difficult to do so?
@@ -85,15 +31,7 @@ The least represented in our group would be Engineering IS majors. This is becau
 4. How do you check or confirm if you are on the right track to meet your major requirements? What resources do you use or how do you go about doing so?
 5. Recall a recent time you needed to reach out to an advisor in the department. How did you go about finding their contact information?
 
-
-**After the interview:** This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!
-
-
 ## Interview Notes
-> **Each team member** should interview at least 3 people from your audience.
-> Take notes and include those notes here. Make sure to include a brief description of each interviewee.
-> **Copy the interview questions above into each interviewee section below.**
-> Take notes for each participant inline with the questions. You should have about 1 sentence in notes for each question.
 
 **Aarush**
 **Interviewee 1:**
@@ -331,7 +269,6 @@ To stay on track, I do a regular "audit" of my courses. I visit the Information 
 I recently needed to get in contact with an advisor to ask if opening another discussion time for a course was possible. But instead of going to the CIS website, I emailed the engineering department first who then directed me to a ticket-system to get in contact with the CIS department. Then after about a week I finally got a response. The process was not very straightforward and later on looking at the site it's not clear where to contact them and if the way you're doing so is the correct one for what your purpose of contacting them is.
 
 ## Audience Goals
-> Analyze your audience's goals from your notes above.
 
 1. Consult different requirements (e.g., core, concentration, electives) without having to go to many pages
 2. Access overview of each course without having to search each one on the roster
@@ -339,9 +276,6 @@ I recently needed to get in contact with an advisor to ask if opening another di
 
 
 ## Planned Content
-> List **all** the content you plan to include in website to address the goals of your audience.
-> **Do not include your actual content here!** Simply provide a **very short description** of each piece of content.
-> You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
 - Logo of Bowers CIS
 - Title for each page
@@ -363,26 +297,11 @@ I recently needed to get in contact with an advisor to ask if opening another di
 
 
 ## Content Justification
-> Explain why this content is the right content for your site's audience and how the content addresses their goals.
-> (1-3 sentences)
 
 The audience's goals consisted of being able to access degree requirements, courses that meet requirements, and advisor information, and our planned content addresses these goals by making this information accessible for the users. Headshots of advisors will make it easier for students to recognize them when going to office hours and bring a more welcoming feeling, while the short paragraph introducing the ISST major will give an overview of what the students can expect broadly to learn about. Flowcharts and checklists can help students quickly figure out and track their requirements, and descriptions accompanying courses help students have a better understanding of what the courses are like without having to constantly click through the roster to find the same information.
 
 
 ## References
-
-### Collaborators
-> List any persons you collaborated with on this project.
-
-Our group members (Tanisha, John, Adelyn, Tran, Aarush) collaborated on this project.
-
-
-### Reference Resources
-> Did you use any resources not provided by this class to help you complete this assignment?
-> List any external resources you referenced in the creation of your project. (i.e. W3Schools, StackOverflow, Mozilla, etc.)
->
-> List **all** resources you used (websites, articles, books, etc.), including generative AI.
-> Provide the URL to the resources you used and include a short description of how you used each resource.
 
 N/A
 

@@ -1,5 +1,5 @@
 # Overview
-This group project was my final assignment for my class INFO 1300: Introductory Design and Programming for the Web. My team and I re-designed and developed a multi-page website with interactive elements for Information Science majors in the College of Arts and Sciences at Cornell University. 
+This group project was my final assignment for my class INFO 1300: Introductory Design and Programming for the Web. My team and I re-designed and developed a multi-page website with interactive elements for Information Science Systems and Technology majors in the College of Engineering at Cornell University. 
 
 There were 3 milestones in this project: 
 
