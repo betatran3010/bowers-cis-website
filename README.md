@@ -27,5 +27,8 @@ There were 3 milestones in this project:
 - Conducted an accessibility audit.
 - Refined HTML, CSS, and JavaScript codes to ensure a consistent structure.
 
+# Design Journey 
+[Design Journey](design-plan/design-journey.md)
+
 # Website Link 
 <https://betatran3010.github.io/bowers-cis-website/>
