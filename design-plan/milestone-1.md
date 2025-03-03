@@ -33,7 +33,6 @@ Our site’s audience is College of Engineering students that are working toward
 
 ## Interview Notes
 
-**Aarush**
 **Interviewee 1:**
 
 My interviewee is an ISST major.
@@ -77,7 +76,6 @@ As a student of Arts & Sciences, while not a part of our primary audience, this 
 **5. Recall a recent time you needed to reach out to an advisor in the department. How did you go about finding their contact information?** My Arts advising dean has always been easy to reach; since they reached out to me over the summer before my first semester, I've always had their contact. The Info advisors have been more difficult. I think I stumbled across their offices at Rhodes and then, because they were only doing Zoom appointments that day, I looked that information up to attend their virtual office hours and email them my questions. Actually, the only time I really chatted with them abotu my major requirements was in-person during an event at Gates.
 
 
-**Tran**
 **Interviewee 4:**
 
 My interviewee is a senior majoring in Information Science, Systems, and Technology in the College of Engineering. Her primary concentration is Data Science.
@@ -122,7 +120,6 @@ My interviewee is a sophomore majoring in Information Science, Systems, and Tech
 
 **5. Recall a recent time you needed to reach out to an advisor in the department. How did you go about finding their contact information?** For faculty advisors, I went to the CIS Research page for ISST because I believe every faculty member could help me with advising and figuring out my interests, including opportunities and career-related stuff. For general advisors, I just looked up online and used the alphabetical last name that each advisor is assigned to and contacted them. For example, my last name started with N so I knew that Sahri Chery is my advisor. Her email was on the website, too, and there was a link to schedule an appointment.
 
-**Adelyn**
 
 **Interviewee 7:**
 
@@ -169,7 +166,6 @@ He is an ISST major in engineering college concentrating in Interactive Technolo
 
 **5. Recall a recent time you needed to reach out to an advisor in the department. How did you go about finding their contact information?**I knew my advisor's name but looking up her name on Google doesn't really help. However, if I look up "cornell info sci advisors" on Google and click on the first link, it contains everything I need.
 
-**Tanisha**
 
 **Interviewee 10:**
 
@@ -215,7 +211,6 @@ This interviewee was an unaffiliated underclassman engineering student who was i
 
 **5. Recall a recent time you needed to reach out to an advisor in the department. How did you go about finding their contact information?** He learned about the advisors during his engineering seminar, which is how he went about finding their contact information.
 
-**John**
 
 **Interviewee 13**
 This interviewee was a freshman who's not yet affiliated with ISST major, but is interested in it.
